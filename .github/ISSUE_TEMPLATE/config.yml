@@ -1,0 +1,7 @@
+contact_links:
+    - name: 📃 Documentation Issue
+      url: https://github.com/luanaframework/luanaframework.github.io/issues/new
+      about: This issue tracker is not for documentation issues. Please file documentation issues here.
+    - name: 🤔 Ask the community
+      url: https://luanaframework.github.io/community
+      about: This issue tracker is not for support questions. Please refer to the Luana community's help and discussion forums.
